@@ -82,7 +82,7 @@ public class Home extends Application {
      root.setPadding(new Insets(20));
      root.setStyle("-fx-background-color: #f3f4ff;");
 
-     // -------- navbar --------
+     // -------- navbar   --------
      HBox navbar = new HBox(10);
      navbar.setAlignment(Pos.CENTER_LEFT);
      navbar.setPadding(new Insets(10, 0, 20, 0));
