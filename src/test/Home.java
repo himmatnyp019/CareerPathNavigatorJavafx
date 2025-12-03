@@ -13,7 +13,7 @@ import javafx.geometry.Pos;
 
 public class Home extends Application {
 
- // simple holder for card data (like JS object) this is templete for an arrey object
+ // simple holder for card data (like JS object) this is templete  for an arrey object
  static class CardInfo {
      String title;
      String salary;
